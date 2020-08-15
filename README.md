@@ -86,6 +86,7 @@ This repo does not contains any configuration file for Python linting.
 ## Authors
 
 * **Linnovs** - *Initial work* - [linnovs](https://github.com/linnovs)
+* **Rafi Dwi Rizqullah** - *Test taker* - [rafidwiriz](https://github.com/rafidwiriz)
 
 [forkFromGithub]:https://github.com/en-trak/backend-pre-interview/fork
 [createAccount]:https://github.com/join
